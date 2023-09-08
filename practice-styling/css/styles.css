@@ -1,0 +1,30 @@
+.navbar {
+	background-color: black;
+	font-size: x-large;
+}
+
+#site-name span.navbar-title {
+	color: aqua;
+}
+
+#site-name {
+	font-weight: bold;
+	color: white;
+	padding-left: 15px;
+}
+
+.title-projects {
+	font-style: italic;
+	text-align: center;
+	color: white;
+	background-color: blueviolet;
+	padding: 10px;
+}
+
+.contact {
+	font-size: small;
+	text-decoration: underline;
+	text-align: right;
+	background-color: #abcaff;
+	padding: 10px 15px 10px 10px;
+}
